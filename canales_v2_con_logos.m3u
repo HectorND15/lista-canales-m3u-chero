@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="atv-hd" tvg-name="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ATV_logo_2020.svg/512px-ATV_logo_2020.svg.png" group-title="🇵🇪 Perú",ATV HD
-http://181.189.244.252:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-id="fillka-tv" tvg-name="Fillka TV" tvg-logo="https://i.imgur.com/XB8F7Xv.png" group-title="🇵🇪 Perú",Fillka TV
-https://media2.streambrothers.com:19360/8028/8028.m3u8
-
-#EXTINF:-1 tvg-id="latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Latina_Televisi%C3%B3n_logo.svg/512px-Latina_Televisi%C3%B3n_logo.svg.png" group-title="🇵🇪 Perú",Latina
-http://181.78.201.70:8000/play/a0ri/index.m3u8
-
-#EXTINF:-1 tvg-id="america-tv" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_Televisi%C3%B3n_%28Logo_2020%29.png/512px-Am%C3%A9rica_Televisi%C3%B3n_%28Logo_2020%29.png" group-title="🇵🇪 Perú",América TV
-http://181.78.201.70:8000/play/a0rh/index.m3u8
-
-#EXTINF:-1 tvg-id="panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Panamericana_Televisi%C3%B3n_logo.svg/512px-Panamericana_Televisi%C3%B3n_logo.svg.png" group-title="🇵🇪 Perú",Panamericana
-http://181.78.201.70:8000/play/a0mo/index.m3u8
-
-#EXTINF:-1 tvg-id="willax-tv" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Willax_Televisi%C3%B3n_logo.svg/512px-Willax_Televisi%C3%B3n_logo.svg.png" group-title="🇵🇪 Perú",Willax TV
-http://200.60.124.19:29000/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-id="rpp" tvg-name="RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/RPP_Noticias_logo.svg/512px-RPP_Noticias_logo.svg.png" group-title="🇵🇪 Perú",RPP
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/12893
-
 #EXTINF:-1 tvg-id="caracol-hd" tvg-name="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="🇨🇴 Colombia",Caracol HD
 http://181.78.14.26:8000/play/a00d
 
@@ -279,12 +258,6 @@ https://bit.ly/3B1M54o?/playlist.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Trace_Urban.svg/512px-Trace_Urban.svg.png" group-title="🎵 Música",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="strana-fm" tvg-name="Страна FM" tvg-logo="https://i.imgur.com/StranaFM.png" group-title="🎵 Música",Страна FM
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pasiones_logo.svg/512px-Pasiones_logo.svg.png" group-title="💕 Novelas",Pasiones
-http://179.51.136.19:8000/play/a1bv/index.m3u8
-
 #EXTINF:-1 tvg-id="pasiones-hd" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pasiones_logo.svg/512px-Pasiones_logo.svg.png" group-title="💕 Novelas",Pasiones HD
 http://45.176.71.20:1689/play/a0nt
 
@@ -293,12 +266,6 @@ http://181.119.85.222:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-novelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="💕 Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
-
-#EXTINF:-1 tvg-id="kanal-d-drama" tvg-name="Kanal D Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png" group-title="💕 Novelas",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mytime" tvg-name="MyTime" tvg-logo="https://i.imgur.com/MyTime.png" group-title="💕 Novelas",MyTime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
 #EXTINF:-1 tvg-id="farra-play" tvg-name="Farra Play" tvg-logo="https://i.imgur.com/FarraPlay.png" group-title="🎭 Entretenimiento",Farra Play
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
@@ -314,9 +281,6 @@ http://181.119.85.222:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="racer" tvg-name="Racer TV" tvg-logo="https://i.imgur.com/RacerTV.png" group-title="⚽ Deportes",Racer TV
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="canal-ruso" tvg-name="Canal Ruso" tvg-logo="https://i.imgur.com/CanalRuso.png" group-title="🇷🇺 Rusia",Canal Ruso
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-ruso" tvg-name="NTV Ruso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2021.svg/512px-NTV_logo_2021.svg.png" group-title="🇷🇺 Rusia",NTV Ruso
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
@@ -344,27 +308,3 @@ http://87.120.179.187:8000/play/a00w
 
 #EXTINF:-1 tvg-id="cityradio" tvg-name="City Radio" tvg-logo="https://i.imgur.com/CityRadio.png" group-title="🇷🇺 Rusia",City Radio
 http://87.120.179.187:8000/play/a001
-
-#EXTINF:-1 tvg-id="fmh-classic" tvg-name="FMH Classic" tvg-logo="https://i.imgur.com/FMHClassic.png" group-title="🎬 Películas",FMH Classic
-http://181.119.86.68:8000/play/b034/index.m3u8
-
-#EXTINF:-1 tvg-id="fmh-rewind" tvg-name="FMH Rewind" tvg-logo="https://i.imgur.com/FMHRewind.png" group-title="🎬 Películas",FMH Rewind
-http://181.119.86.68:8000/play/b071/index.m3u8
-
-#EXTINF:-1 tvg-id="fmh-family" tvg-name="FMH Family" tvg-logo="https://i.imgur.com/FMHFamily.png" group-title="🎭 Entretenimiento",FMH Family
-http://181.119.85.222:8000/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-id="fmh-atlas" tvg-name="FMH Atlas" tvg-logo="https://i.imgur.com/FMHAtlas.png" group-title="📚 Documentales",FMH Atlas
-http://181.119.85.222:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-id="fmh-movies" tvg-name="FMH Movies" tvg-logo="https://i.imgur.com/FMHMovies.png" group-title="🎬 Películas",FMH Movies
-http://181.119.85.222:8000/play/a03b/index.m3u8
-
-#EXTINF:-1 tvg-id="playboy" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Playboy_TV_logo.svg/512px-Playboy_TV_logo.svg.png" group-title="🔞 Adultos",Playboy TV
-http://181.78.201.70:8000/play/a0oz/index.m3u8
-
-#EXTINF:-1 tvg-id="sextreme" tvg-name="Sextreme" tvg-logo="https://i.imgur.com/Sextreme.png" group-title="🔞 Adultos",Sextreme
-http://181.78.201.70:8000/play/a0fw/index.m3u8
-
-#EXTINF:-1 tvg-id="venus" tvg-name="Venus" tvg-logo="https://i.imgur.com/Venus.png" group-title="🔞 Adultos",Venus
-http://179.51.136.19:8000/play/a1h5/index.m3u8 
